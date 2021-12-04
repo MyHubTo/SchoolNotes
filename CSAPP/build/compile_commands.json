@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mrzhao/Documents/Vscode/MyNotes/CSAPP/build",
+  "command": "/usr/bin/g++-5 -DCOMPILEDWITHC11   -Wall   -O3 -march=native -pthread -std=c++11 -pthread -g -o CMakeFiles/Test.dir/main.cpp.o -c /home/mrzhao/Documents/Vscode/MyNotes/CSAPP/main.cpp",
+  "file": "/home/mrzhao/Documents/Vscode/MyNotes/CSAPP/main.cpp"
+},
+{
+  "directory": "/home/mrzhao/Documents/Vscode/MyNotes/CSAPP/build",
+  "command": "/usr/bin/g++-5 -DCOMPILEDWITHC11   -Wall   -O3 -march=native -pthread -std=c++11 -pthread -g -o CMakeFiles/Test.dir/csapp.cpp.o -c /home/mrzhao/Documents/Vscode/MyNotes/CSAPP/csapp.cpp",
+  "file": "/home/mrzhao/Documents/Vscode/MyNotes/CSAPP/csapp.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/mrzhao/Documents/Vscode/MyNotes/CSAPP/build/CMakeFiles/rebuild_cache.dir
+/home/mrzhao/Documents/Vscode/MyNotes/CSAPP/build/CMakeFiles/edit_cache.dir
+/home/mrzhao/Documents/Vscode/MyNotes/CSAPP/build/CMakeFiles/Test.dir
